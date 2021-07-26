@@ -1,3 +1,9 @@
+---
+description: >-
+  This page describes what is this book, who is it for and how to contribute to
+  the project.
+---
+
 # Open Physics Book
 
 ## Who is this book for?
@@ -23,7 +29,7 @@ Even though you haven't watched the playlist is fine, we will try our best to ma
 **3º** Now that you have a copy of the book on your account, it's time to start editing! For making the process of adding content easier we use GitBook. Please log in to the platform using your GitHub account [here](https://app.gitbook.com/).  
 **4º** You now should see the GitBook homepage. We're going to create a new space by clicking "**Create a new space**" on the top left corner, you can name it whatever you want and then press "**Create**".  
 **5º** Go to "**Integrations**" and activate **Github**. Click on "**List only public repositories**" and click on the one you forked \(your\_user/Open-Physics-Book\). Hit **"Next**" until it loads the repository to your text editor.  
-**6º** Finally you can \(really\) start editing! Add pages, write whole paragraphs or edit them. Click "Save" each time you change something \(don't forget to add a description\). After you finished your editing spree just merge all the edits by hitting "Merge" and all the changes should be automatically committed to your forked GitHub repository.  
+**6º** Finally you can \(really\) start editing! Add pages, write whole paragraphs or edit them. Click "Save" each time you change something. After you finished your editing spree just merge all the edits by hitting "Merge" and all the changes should be automatically committed to your forked GitHub repository.  
 **7º** If you access your forked GitHub repository you can see that there's a new button, "**Create a Pull Request**". Click it, add a title and a comment about your contribution and hit **submit**. You've just contributed to the book! A moderator will review your contribution and if everything checks out it will be added to the book as fast as possible. You just made the world a better place 😃
 
 ## How to use this book?
