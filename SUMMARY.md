@@ -2,9 +2,3 @@
 
 * [Open Physics Book](README.md)
 
-## Math Fundamentals
-
-## Classical Mechanics
-
-## Quantum Mechanics
-
