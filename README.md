@@ -14,7 +14,7 @@ Happy reading and learning!
 
 Want to help the community? Neat!
 
-Before you start, it's recommended you learn about **Git** and **GitHub** - You can find a short youtube playlist for these topics [**here**](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK%29) ****\(watch until the 3º video at least\).
+Before you start, it's recommended you learn about **Git** and **GitHub** - You can find a short youtube playlist for these topics [**here**](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK%29) \(watch until the 3º video at least\).
 
 Even though you haven't watched the playlist is fine, we will try our best to make a comprehensive guide on how you can contribute 🙂.
 
