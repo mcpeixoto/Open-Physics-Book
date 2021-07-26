@@ -2,7 +2,7 @@
 
 ## Who is this book for?
 
-The **Open Physics Book** is a **free, online,** and **collaborative** book that will teach you all the things you possibly want or need about physics in an appealing format borrowed from software developers. The topics range from the math fundamentals to quantum mechanics, passing by classical mechanics and other neat topics.
+The **Open Physics Book** is a **free, online,** and **collaborative** book that will teach you all the things you possibly want or need about physics in an appealing format borrowed from software developers. The topics range from the math fundamentals to quantum mechanics, passing by classical mechanics and other neat topics with a pinch of engineering.
 
 If you are a student, a teacher, a researcher, or even someone that is just curious about physics and how the universe works this book is for you. You can either learn from it or add content that it doesn't have yet.
 
