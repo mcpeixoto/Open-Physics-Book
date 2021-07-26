@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Open-Physics-Book](README.md)
+* [Open Physics Book](README.md)
 

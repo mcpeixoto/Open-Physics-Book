@@ -1,6 +1,10 @@
-# Open-Physics-Book
+# Open Physics Book
 
 ## Who is this book for?
+
+TODO
+
+## How to contribute?
 
 TODO
 
