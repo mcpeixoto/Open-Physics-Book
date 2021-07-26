@@ -18,7 +18,7 @@ Before you start, it's recommended you learn about **Git** and **GitHub** - You 
 
 Even though you haven't watched the playlist is fine, we will try our best to make a comprehensive guide on how you can contribute 🙂.
 
-**1º** Access our main GitHub repository by clicking ****[here](https://github.com/mcpeixoto/Open-Physics-Book)**.**  
+**1º** Access our main GitHub repository by clicking [here](https://github.com/mcpeixoto/Open-Physics-Book)**.**  
 **2º** Assuming that you already have and logged in to your GitHub account, click on "**Fork**" on the top right of the page - This will make a copy of the main repository to your account so that you can play around freely without breaking anything.  
 **3º** Now that you have a copy of the book on your account, it's time to start editing! For making the process of adding content easier we use GitBook. Please log in to the platform using your GitHub account [here](https://app.gitbook.com/).  
 **4º** You now should see the GitBook homepage. We're going to create a new space by clicking "**Create a new space**" on the top left corner, you can name it whatever you want and then press "**Create**".  
