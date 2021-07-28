@@ -5,7 +5,8 @@
 ## Math Fundamentals
 
 * [Coordinate systems](math-fundamentals/coordinate-systems/README.md)
-  * [Cartesian coordinate system](math-fundamentals/coordinate-systems/cartesian-coordinate-system.md)
+  * [Cartesian coordinate system](math-fundamentals/coordinate-systems/cartesian-coordinate-system/README.md)
+    * [Distance between two points or coordinates](math-fundamentals/coordinate-systems/cartesian-coordinate-system/distance-between-two-points-or-coordinates.md)
   * [Spherical coordinate system](math-fundamentals/coordinate-systems/spherical-coordinate-system.md)
   * [Polar coordinate system](math-fundamentals/coordinate-systems/polar-coordinate-system.md)
 * [Functions](math-fundamentals/functions/README.md)

@@ -6,11 +6,11 @@ Let's suppose we have an apple floating in a room, _the one that crashed into Ne
 
 We humans live in a 3D world after all, so it would only make sense to represent the apple in the same dimensions.
 
-![The 3D World](../../.gitbook/assets/aihwrif5jv-ill9.gif)
+![The 3D World](../../../.gitbook/assets/aihwrif5jv-ill9.gif)
 
 Let's assign the measurements to coordinates.
 
-Each coordinate would be represented in the axis. By norm, we use the letters **x, y,** and **z** to represent the different axis, just like the gif above and the apple would be represented as a single adimensional point: \(a,b,c\) being the a, b, and c the different measurements.
+Each coordinate would be represented in the axis. **By** **norm**, we use the letters **x, y,** and **z** to represent the different axis, just like the gif above and the apple would be represented as a single adimensional point: \(a,b,c\) being the a, b, and c the different measurements.
 
 You can play around with the **CodePen** below, hit run, and plot the apple! 😃 
 
