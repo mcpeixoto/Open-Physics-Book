@@ -6,6 +6,8 @@ description: >-
 
 # Open Physics Book
 
+## &gt; [BOOK LINK](https://app.gitbook.com/@miguelpeixoto457/s/open-physics-book/) &lt;
+
 ## Who is this book for?
 
 The **Open Physics Book** is a **free, online,** and **collaborative** book that will teach you all the things you possibly want or need about physics in an appealing format borrowed from software developers. The topics range from the math fundamentals to quantum mechanics, passing by classical mechanics and other neat topics with a pinch of engineering.
@@ -30,7 +32,7 @@ Even though you haven't watched the playlist is fine, we will try our best to ma
 **4º** You now should see the GitBook homepage. We're going to create a new space by clicking "**Create a new space**" on the top left corner, you can name it whatever you want and then press "**Create**".  
 **5º** Go to "**Integrations**" and activate **Github**. Click on "**List only public repositories**" and click on the one you forked \(your\_user/Open-Physics-Book\). Hit **"Next**" until it loads the repository to your text editor.  
 **6º** Finally you can \(really\) start editing! Add pages, write whole paragraphs or edit them. Click "Save" each time you change something. After you finished your editing spree just merge all the edits by hitting "Merge" and all the changes should be automatically committed to your forked GitHub repository.  
-**7º** If you access your forked GitHub repository you can see that there's a new button, "**Create a Pull Request**". Click it, add a title and a comment about your contribution and hit **submit**. You've just contributed to the book! A moderator will review your contribution and if everything checks out it will be added to the book as fast as possible. You just made the world a better place 😃
+**7º** If you access your forked GitHub repository you can see that there's a new button, "**Create a Pull Request**". Click it, add a title and a comment about your contribution and hit **submit**. You've just contributed to the book! A moderator will review your contribution and if everything checks out it will be added to the book as fast as possible. You just made thLink: [https://app.gitbook.com/@miguelpeixoto457/s/open-physics-book/](https://app.gitbook.com/@miguelpeixoto457/s/open-physics-book/)e world a better place 😃
 
 ## How to use this book?
 
